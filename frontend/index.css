@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+:root {
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+body {
+  font-family: var(--font-sans);
+  @apply bg-[#F8F9FA] text-zinc-900 antialiased;
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-zinc-900 text-white px-6 py-3 rounded-full font-bold text-sm hover:bg-emerald-600 transition-all duration-300 active:scale-95;
+  }
+}
