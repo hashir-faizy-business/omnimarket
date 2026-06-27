@@ -159,7 +159,7 @@ omnimarket/
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/omnimarket.git
+git clone https://github.com/hashir-faizy-business/omnimarket.git
 cd omnimarket
 ```
 
@@ -315,12 +315,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-## 👥 Authors
-
-- [Your Name](https://github.com/yourusername) — Initial work
-
----
-
 ## 🙏 Acknowledgments
 
 - **MongoDB** for the database
@@ -345,11 +339,3 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 - [ ] Admin dashboard with advanced analytics
 
 ---
-
-## 💬 Support
-
-For support, email support@omnimarket.com or join our [Discord community](https://discord.gg/omnimarket).
-
----
-
-**Built with ❤️ by the OmniMarket Team**
