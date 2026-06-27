@@ -1,0 +1,167 @@
+[
+  {
+    "id": "507f1f77bcf86cd799439031",
+    "vendor_id": "507f1f77bcf86cd799439021",
+    "name": "Minimalist Linen Shirt",
+    "slug": "minimalist-linen-shirt",
+    "description": "Breathable organic linen shirt.",
+    "price": 89.99,
+    "category": "Clothing",
+    "type": "physical",
+    "stock": 50,
+    "status": "active",
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80"
+    ],
+    "metadata": {
+      "colors": [
+        "White",
+        "Beige"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ]
+    },
+    "created_at": "2026-06-27T11:28:32.885Z"
+  },
+  {
+    "id": "507f1f77bcf86cd799439032",
+    "vendor_id": "507f1f77bcf86cd799439021",
+    "name": "Silk Evening Gown",
+    "slug": "silk-evening-gown",
+    "description": "Elegant 100% mulberry silk gown.",
+    "price": 249.5,
+    "category": "Clothing",
+    "type": "physical",
+    "stock": 15,
+    "status": "active",
+    "images": [
+      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=800&q=80"
+    ],
+    "metadata": {
+      "colors": [
+        "Midnight Blue",
+        "Emerald"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ]
+    },
+    "created_at": "2026-06-27T11:28:32.885Z"
+  },
+  {
+    "id": "507f1f77bcf86cd799439033",
+    "vendor_id": "507f1f77bcf86cd799439022",
+    "name": "Cyberpunk Headphones",
+    "slug": "cyberpunk-headphones",
+    "description": "High-fidelity audio with neon accents.",
+    "price": 299,
+    "category": "Electronics",
+    "type": "physical",
+    "stock": 20,
+    "status": "active",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "metadata": {
+      "specs": {
+        "battery": "40h",
+        "noise_cancelling": true
+      }
+    },
+    "created_at": "2026-06-27T11:28:32.885Z"
+  },
+  {
+    "id": "507f1f77bcf86cd799439034",
+    "vendor_id": "507f1f77bcf86cd799439022",
+    "name": "Quantum Smartwatch",
+    "slug": "quantum-smartwatch",
+    "description": "Next-gen health tracking and holographic display.",
+    "price": 450,
+    "category": "Electronics",
+    "type": "physical",
+    "stock": 30,
+    "status": "active",
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80"
+    ],
+    "metadata": {
+      "specs": {
+        "waterproof": true,
+        "sensors": [
+          "ECG",
+          "SpO2"
+        ]
+      }
+    },
+    "created_at": "2026-06-27T11:28:32.885Z"
+  },
+  {
+    "id": "507f1f77bcf86cd799439035",
+    "vendor_id": "507f1f77bcf86cd799439023",
+    "name": "Ceramic Vase",
+    "slug": "ceramic-vase",
+    "description": "Hand-thrown ceramic vase with matte finish.",
+    "price": 45,
+    "category": "Home Decor",
+    "type": "physical",
+    "stock": 10,
+    "status": "active",
+    "images": [
+      "https://images.unsplash.com/photo-1581783898377-1c85bf937427?auto=format&fit=crop&w=800&q=80"
+    ],
+    "created_at": "2026-06-27T11:28:32.885Z"
+  },
+  {
+    "id": "507f1f77bcf86cd799439036",
+    "vendor_id": "507f1f77bcf86cd799439025",
+    "name": "Organic Face Oil",
+    "slug": "organic-face-oil",
+    "description": "Nourishing blend of cold-pressed oils.",
+    "price": 32,
+    "category": "Beauty",
+    "type": "physical",
+    "stock": 100,
+    "status": "active",
+    "images": [
+      "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=800&q=80"
+    ],
+    "created_at": "2026-06-27T11:28:32.885Z"
+  },
+  {
+    "id": "507f1f77bcf86cd799439037",
+    "vendor_id": "507f1f77bcf86cd799439022",
+    "name": "Mechanical Keyboard",
+    "slug": "mechanical-keyboard",
+    "description": "Tactile switches and customizable RGB.",
+    "price": 159.99,
+    "category": "Electronics",
+    "type": "physical",
+    "stock": 25,
+    "status": "active",
+    "images": [
+      "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&w=800&q=80"
+    ],
+    "created_at": "2026-06-27T11:28:32.885Z"
+  },
+  {
+    "id": "507f1f77bcf86cd799439038",
+    "vendor_id": "507f1f77bcf86cd799439021",
+    "name": "Leather Boots",
+    "slug": "leather-boots",
+    "description": "Handcrafted Italian leather boots.",
+    "price": 189,
+    "category": "Clothing",
+    "type": "physical",
+    "stock": 20,
+    "status": "active",
+    "images": [
+      "https://images.unsplash.com/photo-1520639889313-7272a74b1c73?auto=format&fit=crop&w=800&q=80"
+    ],
+    "created_at": "2026-06-27T11:28:32.885Z"
+  }
+]

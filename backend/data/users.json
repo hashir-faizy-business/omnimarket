@@ -1,0 +1,74 @@
+[
+  {
+    "id": "507f1f77bcf86cd799439011",
+    "email": "admin@omnimarket.com",
+    "password": "admin123",
+    "name": "Global Admin",
+    "role": "administrator",
+    "status": "active",
+    "created_at": "2026-06-27T11:28:32.884Z"
+  },
+  {
+    "id": "507f1f77bcf86cd799439012",
+    "email": "fashion@vendor.com",
+    "password": "vendor123",
+    "name": "Elena Rossi",
+    "role": "vendor",
+    "status": "active",
+    "created_at": "2026-06-27T11:28:32.885Z"
+  },
+  {
+    "id": "507f1f77bcf86cd799439013",
+    "email": "tech@vendor.com",
+    "password": "vendor123",
+    "name": "Alex Chen",
+    "role": "vendor",
+    "status": "active",
+    "created_at": "2026-06-27T11:28:32.885Z"
+  },
+  {
+    "id": "507f1f77bcf86cd799439014",
+    "email": "handmade@vendor.com",
+    "password": "vendor123",
+    "name": "Sarah Miller",
+    "role": "vendor",
+    "status": "active",
+    "created_at": "2026-06-27T11:28:32.885Z"
+  },
+  {
+    "id": "507f1f77bcf86cd799439015",
+    "email": "digital@vendor.com",
+    "password": "vendor123",
+    "name": "David Wright",
+    "role": "vendor",
+    "status": "active",
+    "created_at": "2026-06-27T11:28:32.885Z"
+  },
+  {
+    "id": "507f1f77bcf86cd799439016",
+    "email": "customer@demo.com",
+    "password": "customer123",
+    "name": "Jane Doe",
+    "role": "customer",
+    "status": "active",
+    "created_at": "2026-06-27T11:28:32.885Z"
+  },
+  {
+    "id": "507f1f77bcf86cd799439017",
+    "email": "bob@demo.com",
+    "password": "customer123",
+    "name": "Bob Smith",
+    "role": "customer",
+    "status": "active",
+    "created_at": "2026-06-27T11:28:32.885Z"
+  },
+  {
+    "id": "507f1f77bcf86cd799439018",
+    "email": "beauty@vendor.com",
+    "password": "vendor123",
+    "name": "Sophia Loren",
+    "role": "vendor",
+    "status": "active",
+    "created_at": "2026-06-27T11:28:32.885Z"
+  }
+]

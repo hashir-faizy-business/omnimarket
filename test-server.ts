@@ -1,7 +1,7 @@
 
 async function test() {
   try {
-    const res = await fetch('http://localhost:3000/');
+    const res = await fetch('http://localhost:3007/');
     const data = await res.text();
     console.log("Response:", data);
   } catch (err) {

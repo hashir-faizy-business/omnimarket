@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Pick up where you left off",
+    "icon": "History",
+    "type": "products",
+    "limit": 12,
+    "order": 1,
+    "active": true
+  },
+  {
+    "title": "Continue shopping deals",
+    "icon": "Tag",
+    "type": "products",
+    "limit": 12,
+    "order": 2,
+    "active": true
+  },
+  {
+    "title": "Buy again",
+    "icon": "RefreshCcw",
+    "type": "products",
+    "limit": 12,
+    "order": 3,
+    "active": true
+  },
+  {
+    "title": "Keep shopping for",
+    "icon": "Search",
+    "type": "products",
+    "limit": 12,
+    "order": 4,
+    "active": true
+  },
+  {
+    "title": "Deals on popular reorders",
+    "icon": "Flame",
+    "type": "products",
+    "limit": 12,
+    "order": 5,
+    "active": true
+  },
+  {
+    "title": "Inspired by your browsing history",
+    "icon": "Sparkles",
+    "type": "products",
+    "limit": 12,
+    "order": 6,
+    "active": true
+  },
+  {
+    "title": "Customers’ Most-Loved Fashion",
+    "icon": "Heart",
+    "type": "category",
+    "category": "Clothing",
+    "limit": 12,
+    "order": 7,
+    "active": true
+  },
+  {
+    "title": "Up to 60% Off | Smart furniture",
+    "icon": "Monitor",
+    "type": "category",
+    "category": "Home Decor",
+    "limit": 12,
+    "order": 8,
+    "active": true
+  },
+  {
+    "title": "Min.35% off | Small Businesses",
+    "icon": "Store",
+    "type": "category",
+    "category": "Handmade",
+    "limit": 12,
+    "order": 9,
+    "active": true
+  },
+  {
+    "title": "Best Sellers in Computers",
+    "icon": "Monitor",
+    "type": "category",
+    "category": "Electronics",
+    "limit": 12,
+    "order": 10,
+    "active": true
+  },
+  {
+    "title": "Best Sellers in Beauty",
+    "icon": "Sparkles",
+    "type": "category",
+    "category": "Beauty",
+    "limit": 12,
+    "order": 11,
+    "active": true
+  }
+]

@@ -2,9 +2,9 @@
 async function checkHealth() {
   try {
     const [catRes, secRes, vidRes] = await Promise.all([
-      fetch('http://localhost:3000/api/categories'),
-      fetch('http://localhost:3000/api/sections'),
-      fetch('http://localhost:3000/api/videos')
+      fetch('http://localhost:3007/api/categories'),
+      fetch('http://localhost:3007/api/sections'),
+      fetch('http://localhost:3007/api/videos')
     ]);
     
     const cats = await catRes.json();

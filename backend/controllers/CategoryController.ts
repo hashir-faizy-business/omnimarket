@@ -1,10 +1,13 @@
 import { Request, Response } from 'express';
-import { Category } from '../models/Category.js';
+import { readCollection } from '../config/jsonDb.js';
 
 export const getAllCategories = async (req: Request, res: Response) => {
   try {
-    const categories = await Category.find({ active: true }).sort({ order: 1 });
-    res.json(categories);
+    const categories = readCollection<any>('categories');
+    const activeSortedCategories = categories
+      .filter(cat => cat.active === true)
+      .sort((a, b) => (a.order || 0) - (b.order || 0));
+    res.json(activeSortedCategories);
   } catch (err) {
     res.status(500).json({ error: 'Failed to fetch categories' });
   }

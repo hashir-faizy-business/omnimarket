@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "title": "Unboxing the New UltraPhone",
+    "thumbnail": "https://picsum.photos/seed/v1/400/225",
+    "views": "1.2M",
+    "type": "Unboxing",
+    "created_at": "2026-06-27T11:28:32.885Z"
+  },
+  {
+    "id": "2",
+    "title": "Review: Minimalist Desk Setup",
+    "thumbnail": "https://picsum.photos/seed/v2/400/225",
+    "views": "850K",
+    "type": "Review",
+    "created_at": "2026-06-27T11:28:32.885Z"
+  },
+  {
+    "id": "3",
+    "title": "Fashion Haul: Spring 2026",
+    "thumbnail": "https://picsum.photos/seed/v3/400/225",
+    "views": "2.5M",
+    "type": "Haul",
+    "created_at": "2026-06-27T11:28:32.885Z"
+  },
+  {
+    "id": "4",
+    "title": "Handmade Pottery Process",
+    "thumbnail": "https://picsum.photos/seed/v4/400/225",
+    "views": "420K",
+    "type": "Process",
+    "created_at": "2026-06-27T11:28:32.885Z"
+  }
+]

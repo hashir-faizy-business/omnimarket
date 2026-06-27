@@ -1,5 +1,4 @@
 import { Router } from 'express';
-import mongoose from 'mongoose';
 import authRoutes from './auth.js';
 import productRoutes from './products.js';
 import vendorRoutes from './vendors.js';
@@ -21,9 +20,9 @@ router.use((req, res, next) => {
 // Health check
 router.get("/health", (req, res) => {
   res.json({ 
-    status: mongoose.connection.readyState === 1 ? "ok" : "degraded", 
-    message: "Server is running",
-    db: mongoose.connection.readyState
+    status: "ok", 
+    message: "Server is running with local JSON database",
+    db: 1
   });
 });
 

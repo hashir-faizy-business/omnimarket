@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Groceries",
+    "slug": "groceries",
+    "icon": "ShoppingBag",
+    "order": 1,
+    "active": true
+  },
+  {
+    "name": "Electronics",
+    "slug": "electronics",
+    "icon": "Monitor",
+    "order": 2,
+    "active": true
+  },
+  {
+    "name": "Clothing",
+    "slug": "clothing",
+    "icon": "Tag",
+    "order": 3,
+    "active": true
+  },
+  {
+    "name": "Home Decor",
+    "slug": "home-decor",
+    "icon": "Home",
+    "order": 4,
+    "active": true
+  },
+  {
+    "name": "Handmade",
+    "slug": "handmade",
+    "icon": "Store",
+    "order": 5,
+    "active": true
+  },
+  {
+    "name": "Software",
+    "slug": "software",
+    "icon": "Zap",
+    "order": 6,
+    "active": true
+  },
+  {
+    "name": "Subscription",
+    "slug": "subscription",
+    "icon": "Clock",
+    "order": 7,
+    "active": true
+  },
+  {
+    "name": "Beauty",
+    "slug": "beauty",
+    "icon": "Sparkles",
+    "order": 8,
+    "active": true
+  }
+]
